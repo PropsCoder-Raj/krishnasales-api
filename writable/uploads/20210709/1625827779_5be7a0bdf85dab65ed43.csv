@@ -1,0 +1,4 @@
+Item_Id,Item_Name,Unit_Price,Discount,Vat,Stock_State
+IT130,CPU,10000,19,9,In Stock
+IT131,Moniter,4000,20,10,In Stock
+IT132,Switch Board,500,10,0,In Stock

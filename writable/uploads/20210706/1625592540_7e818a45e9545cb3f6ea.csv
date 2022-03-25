@@ -1,0 +1,4 @@
+﻿Item_Id,Item_Name,Unit_Price,Discount,Vat,Stock_State
+1,Pen 1,50,2,9,In Stock
+2,Pencil,50,2,9,In Stock
+3,Sharpner,50,2,9,In Stock
